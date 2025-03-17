@@ -10,7 +10,7 @@ SECRET_KEY = (
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    '123.123.123.123',
+    '158.160.68.126',
     '127.0.0.1',
     'localhost',
     'pepel2.sytes.net'
